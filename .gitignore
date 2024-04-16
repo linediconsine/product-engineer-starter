@@ -6,6 +6,7 @@
 /frontend/node_modules
 /.pnp
 .pnp.js
+/backend/env/
 
 # testing
 /coverage
@@ -20,6 +21,7 @@
 # misc
 .DS_Store
 *.pem
+*.pyc
 
 # debug
 npm-debug.log*

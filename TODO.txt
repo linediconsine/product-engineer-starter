@@ -1,0 +1,4 @@
+#todo:
+in utility
+# - session.query is deprecated (fix) 
+# - find a better name for this module
